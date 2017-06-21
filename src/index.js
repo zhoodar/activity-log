@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import ActivityLog from './ActivityLog';
 import registerServiceWorker from './service/registerServiceWorker';
 import './stylesheets/index.css';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<ActivityLog />, document.getElementById('root'));
 registerServiceWorker();
