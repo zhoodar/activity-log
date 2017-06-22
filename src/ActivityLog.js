@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import logo from './images/logo.svg';
+import logo from './resources/logo.svg';
 import './stylesheets/App.css';
 
 class ActivityLog extends Component {
